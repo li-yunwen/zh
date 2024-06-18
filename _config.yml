@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yunwen's Homepage"
+locale                   : "zh"
+title                    : "韵文的主页"
 title_separator          : "-"
-name                     : &name "Yunwen Li"
-description              : &description "Yunwen's Homepage"
-url                      : https://li-yunwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "李韵文"
+description              : &description "韵文的主页"
+url                      : https://li-yunwen.github.io/zh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "li-yunwen/li-yunwen.github.io"
+repository               : "li-yunwen/zh"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 100
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunwen Li"
+  name             : "李韵文"
   avatar           : "prof_pic.jpg"
-  bio              : "Master Student @ ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : "硕士在读 (苏黎世联邦理工学院)"
+  location         : "苏黎世, 瑞士"
   employer         : 
   pubmed           :
   orcid            : 

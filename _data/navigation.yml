@@ -1,13 +1,13 @@
 # main links links
 main:
 
-  - title: "About Me"
+  - title: "关于我"
     url: /about/
 
   # - title: "Research"
   #   url: /research/
 
-  - title: "Projects"
+  - title: "项目"
     url: /projects/
 
   # - title: "Publications"
@@ -16,5 +16,5 @@ main:
   # - title: "Blog Posts"
   #   url: /posts/
 
-  - title: "CV"
+  - title: "简历"
     url: /cv/
